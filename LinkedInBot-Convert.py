@@ -1,7 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Updated Author: Seth Rzeszutek
-# Previous Authors: Matt Flood and helloitsim
+
 
 import os, random, sys, time, re, csv, datetime
 from configure import *
